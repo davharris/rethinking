@@ -10,10 +10,6 @@ Depends:
     bbmle,
     coda
 Description: Utilities for fitting and comparing models
-<<<<<<< HEAD
 License: GPLv3
-=======
-License: GPL version 2 or newer
 Collate:
     'rethinking_utils.r'
->>>>>>> 2736e5bdc909542a79e08ad6922b529781c864fd
